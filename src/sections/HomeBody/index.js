@@ -25,8 +25,7 @@ export default function HomeBody(){
                   renderer={Count}/>
               </p>
               <h2 className="title-2"></h2>
-              <p> <span>🎉</span> There will be lots of NFT &amp; web3 educational content &amp;
-                tools on this website. Don’t miss the epic party — follow us on <a href="https://www.twitter.com/LearnJPEG" target={"_blank"}>Twitter</a> for updates.</p>
+              <p> <span>🎉</span>  Come Learn, Earn & Build with us. Our goal is to onboard millions of new users from Web2 to Web3 over the next few years. Don’t miss this epic opportunity — follow us on <a href="https://www.twitter.com/LearnJPEG" target={"_blank"}>Twitter</a> for updates.</p>
             </div>
           </div>
           <div className="col-xl-8 col-lg-10">
