@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import Head from "next/head";
 import useWidth from "~hooks/useWidth"; 
-// import favicon from "~image/favicon.png";
+import favicon from "/images/favicon.png";
 import GlobalContext from "../../../context/GlobalContext";
 import Header from "~components/Layouts/Header";
 export default function Layout({ children }) {
@@ -11,7 +11,7 @@ export default function Layout({ children }) {
   const [mobile,setMobile] = useState(false);
   const [mobileElements,setMobileElements] = useState(false);
 
-  const defaultMetaDescription = "We are an NFT project, which turned into a DAO. We emphasize on conducting weekly and special raffles till perpetuity. Our Access Pass NFT comes with several rarities and rewards + grants its holder an airdrop of our Members Pass NFT."
+  const defaultMetaDescription = "Come Learn, Earn & Build with us. Our goal is to onboard millions of new users from Web2 to Web3 over the next few years. Learn more at http://docs.learnjpeg.com"
   return (
     <>
       <Head>
@@ -19,7 +19,7 @@ export default function Layout({ children }) {
           name="viewport"
           content="width=device-width, initial-scale=1.0, user-scalable=0"
         />
-        <meta property="og:title" content="Raffle DAO"/>
+        <meta property="og:title" content="LearnJPEG | Coming Soon"/>
         <meta property="og:description" content={theme.metaDescription ? theme.metaDescription : defaultMetaDescription}/>
         <meta property="og:image" content="/images/social-image.jpg"/>
         {/* <title>{theme.pageTitle}</title> */}
