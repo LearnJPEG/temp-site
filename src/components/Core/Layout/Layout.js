@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import Head from "next/head";
 import useWidth from "~hooks/useWidth"; 
-import favicon from "favicon.png";
+//import favicon from "favicon.png";
 import GlobalContext from "../../../context/GlobalContext";
 import Header from "~components/Layouts/Header";
 export default function Layout({ children }) {
@@ -24,7 +24,7 @@ export default function Layout({ children }) {
         <meta property="og:image" content="/images/social-image.jpg"/>
         {/* <title>{theme.pageTitle}</title> */}
         <title>LearnJPEG | Coming Soon</title>
-        <link rel="icon" type="image/png" href="images/favicon.png" />
+        <link rel="icon" type="image/png" href="images/favicon.ico" />
       </Head>
       <div
         className={`site-wrapper overflow-hidden ${
