@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import Head from "next/head";
 import useWidth from "~hooks/useWidth"; 
-import favicon from "~images/favicon.png";
+import favicon from "images/favicon.png";
 import GlobalContext from "../../../context/GlobalContext";
 import Header from "~components/Layouts/Header";
 export default function Layout({ children }) {
