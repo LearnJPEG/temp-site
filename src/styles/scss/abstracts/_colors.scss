@@ -1,0 +1,28 @@
+$white              :#fff;
+$black              :#000;
+$royal-blue : #5B6BE5;
+$cranberry : #E45A91;
+$tan-hide : #F7A355;
+$dodger-blue : #1DA1F2;
+$persimmon:#FF6447;
+$cadet-blue : #B0B7C3;
+$golden-grass : #DAA520;
+$antique-bronze : #6A3805;
+$header-link-color: $royal-blue;
+$btn-link-color: $royal-blue;
+$blue-ribbon : #1854F4;
+$primary: $royal-blue;
+$secondary: $cranberry;
+
+
+$text-gradient-colors:(
+    "gradient-primary-secondary": "169deg, #5B6BE5 0%, #E45A91 46.88%, #F7A355 100%"
+    // "gradient-secondary-primary": 90deg, #5B6BE5 0%, #E45A91 46.88%, #F7A355 100%,
+);
+
+$btn-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "dodger-blue": $dodger-blue,
+    "black" : $black
+)

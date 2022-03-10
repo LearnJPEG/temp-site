@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Int Circular PTT';
+    src: url('IntCircularPTT-Bold.eot');
+    src: url('IntCircularPTT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('IntCircularPTT-Bold.woff2') format('woff2'),
+        url('IntCircularPTT-Bold.woff') format('woff'),
+        url('IntCircularPTT-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Int Circular PTT';
+    src: url('IntCircularPTT-Thin.eot');
+    src: url('IntCircularPTT-Thin.eot?#iefix') format('embedded-opentype'),
+        url('IntCircularPTT-Thin.woff2') format('woff2'),
+        url('IntCircularPTT-Thin.woff') format('woff'),
+        url('IntCircularPTT-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Int Circular PTT';
+    src: url('IntCircularPTT-Black.eot');
+    src: url('IntCircularPTT-Black.eot?#iefix') format('embedded-opentype'),
+        url('IntCircularPTT-Black.woff2') format('woff2'),
+        url('IntCircularPTT-Black.woff') format('woff'),
+        url('IntCircularPTT-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Int Circular PTT Book';
+    src: url('IntCircularPTT-Book.eot');
+    src: url('IntCircularPTT-Book.eot?#iefix') format('embedded-opentype'),
+        url('IntCircularPTT-Book.woff2') format('woff2'),
+        url('IntCircularPTT-Book.woff') format('woff'),
+        url('IntCircularPTT-Book.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Int Circular PTT';
+    src: url('IntCircularPTT-Medium.eot');
+    src: url('IntCircularPTT-Medium.eot?#iefix') format('embedded-opentype'),
+        url('IntCircularPTT-Medium.woff2') format('woff2'),
+        url('IntCircularPTT-Medium.woff') format('woff'),
+        url('IntCircularPTT-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Int Circular PTT';
+    src: url('IntCircularPTT-Light.eot');
+    src: url('IntCircularPTT-Light.eot?#iefix') format('embedded-opentype'),
+        url('IntCircularPTT-Light.woff2') format('woff2'),
+        url('IntCircularPTT-Light.woff') format('woff'),
+        url('IntCircularPTT-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
