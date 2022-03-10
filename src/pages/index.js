@@ -6,9 +6,9 @@ import IntroSection from "~sections/IntroSection";
 const pageInfo = {
   headerMini: false,
   footerMini: false,
-  pageTitle: "Home | RaffleDAO",
+  pageTitle: "LearnJPEG | Coming Soon",
   bodyClass: "",
-  metaDescription: "If you miss the first step of initial setup, the demo import will won't import all pages how much time you do it unless you do the whole process again with clean installation."
+  metaDescription: "Come Learn, Earn & Build with us. Our goal is to onboard millions of new users from Web2 to Web3 over the next few years. Learn more at http://docs.learnjpeg.com"
 }
 export default function HomePage() {
   return (
