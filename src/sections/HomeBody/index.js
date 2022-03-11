@@ -84,7 +84,7 @@ export default function HomeBody() {
                     {submitted ? (
                       <Button className="btn w-100 h-48 submitted" as="span">
                         {" "}
-                        Your details have been submitted successfully.
+                        Thank You. Your details have been submitted successful.
                       </Button>
                     ) : (
                       <Button
