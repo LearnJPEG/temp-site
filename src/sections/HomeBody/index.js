@@ -13,7 +13,7 @@ export default function HomeBody() {
       "https://script.google.com/macros/s/AKfycbyVgzx5hxXZABZV-6RSMX7fl-hYIugGWuKov4rq_wCZXyFY_2Hf6u1txtdsQQOYKboF/exec";
     fetch(scriptURL, { method: "POST", body: new FormData(frm) })
       .then((response) =>
-        alert("Thanks for Contacting us..! We Will Contact You Soon...")
+        alert("Thank You. Your details have been submitted successful.")
       )
       .catch((error) => console.error("Error!", error.message));
     setSubmitted(true);
