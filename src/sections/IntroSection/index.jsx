@@ -58,14 +58,14 @@ export default function IntroSection(){
 
 
             <ul>
-              <li className="list">Learn &amp; Earn - <p className="fw-normal d-inline">
+              <li className="list">📙 Learn &amp; Earn - <p className="fw-normal d-inline">
               This will allow new users to enrol into NFT + Web3 courses and earn in-app coins for successfully completing the course. These courses will contain a variety of content, such as text guides, videos, podcasts &amp; more. The course will be followed by some questions which would authenticate whether a user really read &amp; did not skip. On successful completion of the course, the user would receive a fixed no. of coins. These coins can be converted into Partner Artist NFTs, merch or other goodies using our Rewards Store. All courses on our platform will be free of cost and we promise to never display any ads.</p></li>
-              <li className="list">Profiles - <span className="fw-normal d-inline">A</span></li>
-              <li className="list">Market - <span className="fw-normal d-inline"> A</span></li>
-              <li className="list">Glossary - <span className="fw-normal d-inline"> A</span></li>
-              <li className="list">Portfolio - <span className="fw-normal d-inline"> A</span></li>
-              <li className="list">Blog - <span className="fw-normal d-inline"> A</span></li>
-              <li className="list">Newsletter - <span className="fw-normal d-inline"> A</span></li>
+              <li className="list">🌈 Profiles - <span className="fw-normal d-inline">A</span></li>
+              <li className="list">️🏪 Market - <span className="fw-normal d-inline"> A</span></li>
+              <li className="list">📖 Glossary - <span className="fw-normal d-inline"> A</span></li>
+              <li className="list">💼 Portfolio - <span className="fw-normal d-inline"> A</span></li>
+              <li className="list">️📝 Blog - <span className="fw-normal d-inline"> A</span></li>
+              <li className="list">📮 Newsletter - <span className="fw-normal d-inline"> A</span></li>
             </ul>
         </div>
     </div>
